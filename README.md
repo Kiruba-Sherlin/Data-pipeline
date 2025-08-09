@@ -62,5 +62,6 @@ Transform: Standardize numeric features → Encode categorical labels.
 Load: Save the cleaned dataset into a structured directory for further use.
 
 Output:
+
 <img width="782" height="258" alt="Image" src="https://github.com/user-attachments/assets/761d54ff-392f-4ecb-9510-029e01436780" />
 <img width="794" height="249" alt="Image" src="https://github.com/user-attachments/assets/7aff3b1a-931d-4b82-bf62-2f6816a7e498" />
