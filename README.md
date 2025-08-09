@@ -14,7 +14,8 @@ MENTOR: NEELA SANTOSH
 
 DESCRIPTION:
 
-Program Description
+Program Description:
+
 This Python script implements a basic ETL (Extract, Transform, Load) workflow for the Iris dataset, a classic dataset in machine learning.
 It performs the following steps:
 
@@ -41,13 +42,19 @@ It performs the following steps:
 Tools & Technologies Used:
 
 i) Python -	Core programming language for the script.
+
 ii) pandas	- Data manipulation and analysis — used to create DataFrames, combine features, and save CSV files.
+
 iii) scikit-learn (sklearn)	- Machine learning toolkit — used to load the Iris dataset, scale features, and encode categorical labels.
+
 iv) StandardScaler	- From sklearn.preprocessing, used to standardize features for better ML performance.
+
 v) LabelEncoder	- From sklearn.preprocessing, used to convert categorical class labels into integers.
+
 vi) os (Python standard library) -	Used to handle file system operations like creating directories.
 
 Workflow Summary:
+
 Extract: Read the Iris dataset → Convert into DataFrame.
 
 Transform: Standardize numeric features → Encode categorical labels.
